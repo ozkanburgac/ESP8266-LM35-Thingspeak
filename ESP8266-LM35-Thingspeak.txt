@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
-String apiWritekey = "PLAJAWK2YYGOSUYO"; // replace with your THINGSPEAK WRITEAPI key here
-const char* ssid = "o-simdi-spam"; // your wifi SSID name
-const char* password = "En0l@G@y";// wifi pasword
+String apiWritekey = "xxxxxxxxx"; // replace with your THINGSPEAK WRITEAPI key here
+const char* ssid = "xxxxxxxxx"; // your wifi SSID name
+const char* password = xxxxxxxxx";// wifi pasword
 
 const char* server = "api.thingspeak.com";
 float resolution = 3.3 / 1023; // 3.3 is the supply volt  & 1023 is max analog read value
